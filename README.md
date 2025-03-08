@@ -1,1 +1,1 @@
-# flappy-bird-opencv
+# tetris-opencv

@@ -10,7 +10,7 @@ from utils.game_controller import (
 
 # Separate action timestamps for each hand
 last_action_time = {"Right": 0, "Left": 0}
-ACTION_DELAY = 1.0
+ACTION_DELAY = 0.6
 
 
 def interpret_gesture(landmarks, hand_type):

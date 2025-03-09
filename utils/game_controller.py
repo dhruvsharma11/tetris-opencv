@@ -16,11 +16,6 @@ def rotate_right():
     pyautogui.press("up")
 
 
-def rotate_left():
-    """Press 'Z' key to rotate piece left."""
-    pyautogui.press("z")
-
-
 def soft_drop():
     """Press down arrow key to soft drop."""
     pyautogui.press("down")
